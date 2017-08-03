@@ -15,8 +15,6 @@ public class Calculator {
 	public static void main(String[] args) {
 
 		int choice;
-		int num1 = 0;
-		int num2 = 0;
 		int ans;
 		@SuppressWarnings("resource")
 		Scanner in = new Scanner(System.in);
@@ -31,9 +29,9 @@ public class Calculator {
 		choice = in.nextInt();
 
 		System.out.print("\nEnter 1st number: ");
-		num1 = in.nextInt();
+		int num1 = in.nextInt();
 		System.out.print("Enter 2nd number: ");
-		num2 = in.nextInt();
+		int num2 = in.nextInt();
 		System.out.println("------------------------- ");
 
 		if (choice == 1) {
