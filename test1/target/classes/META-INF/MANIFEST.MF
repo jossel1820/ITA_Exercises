@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: ESCOBJO
-Build-Jdk: 1.8.0_51
+Built-By: Jossel
+Build-Jdk: 1.8.0_66
 Created-By: Maven Integration for Eclipse
 
