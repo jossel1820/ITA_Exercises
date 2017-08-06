@@ -1,4 +1,6 @@
-package ITA.test1;
+package com.firstWeek;
+
+import com.firstWeek.Calculator;
 
 import junit.framework.TestCase;
 
