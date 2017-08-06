@@ -22,5 +22,25 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/lib/ant-javafx.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/lib/dt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/lib/javafx-mx.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/lib/jconsole.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/lib/packager.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/lib/sa-jdi.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/lib/tools.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/bin/javac.exe"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/jre/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/jre/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/jre/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/jre/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/jre/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/jre/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/jre/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/jre/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/jre/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/jre/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_40/jre/lib/rt.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

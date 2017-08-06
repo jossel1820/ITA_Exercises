@@ -1,4 +1,4 @@
-package ITA.test1;
+package com.firstWeek;
 
 import java.util.Scanner;
 
